@@ -508,7 +508,7 @@ color: rgb(3, 3, 218);
 }
 
 .history .btn{
-    padding: 13px 115px;
+    padding: 13px 8rem;
     margin-top: 80px;
     background-color: rgb(246,159,21);
     border: none;
@@ -554,8 +554,8 @@ width: 30px;
     
     position: relative;
     top: 70px;
-    right: 30px;
-    left: 5px;
+    right: 50px;
+    left: -15px;
    
     
 }
