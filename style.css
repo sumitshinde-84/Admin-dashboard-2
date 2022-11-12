@@ -292,6 +292,7 @@
     display: grid;
     grid-template-columns: 2fr 1fr;
     grid-template-rows: 70px 1fr 1fr;
+    
    
 }
 
@@ -308,6 +309,7 @@
     z-index: 1;
     position: relative;
     gap: 10px;
+    
     
 
     
@@ -386,6 +388,7 @@
     margin-left: 30px;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
+    
     
 }
 
@@ -479,7 +482,7 @@ color: rgb(3, 3, 218);
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr 1fr;
-    gap: 20px;
+    gap: 10px;
     margin-top: 30px;
 
 }
@@ -506,7 +509,7 @@ color: rgb(3, 3, 218);
 
 .history .btn{
     padding: 13px 115px;
-    margin-top: 68px;
+    margin-top: 80px;
     background-color: rgb(246,159,21);
     border: none;
     border-radius: 4px;
@@ -543,7 +546,7 @@ width: 30px;
     display: grid;
     grid-template-columns: 240px 240px;
     grid-template-rows: 1fr 60px 60px;
-    gap: 10px 65px;
+    gap: 10px 40px;
     justify-content: center;
     align-content: center;
     position: relative;
